@@ -1,5 +1,6 @@
 from nearest_square import nearest_square
 
+#Test cases:
 def test_nearest_square_5():
     assert(nearest_square(5)==4)
 def test_nearest_square_n12():
